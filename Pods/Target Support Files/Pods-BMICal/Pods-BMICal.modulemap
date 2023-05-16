@@ -1,0 +1,6 @@
+framework module Pods_BMICal {
+  umbrella header "Pods-BMICal-umbrella.h"
+
+  export *
+  module * { export * }
+}
